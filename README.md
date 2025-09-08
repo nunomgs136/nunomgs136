@@ -1,6 +1,6 @@
 ***Howdy!***
 - 👋 Hi, I’m Nuno! :D
-- I'm a Computer Science student at FEI. I'm currently on my 5th semester.
+- I'm a Computer Science student at FEI. I'm currently on my 6th semester.
 
 -  I’m currently learning R, but I also have learned Python, C, Java, C++, HTML, CSS & Assembly.
 - Always looking to improve :3
